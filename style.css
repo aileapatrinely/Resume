@@ -1,3 +1,27 @@
-p{
-red
+body{ 
+  background-color:#FCD796;
+  padding: 0 200px 0 200px;
 }
+
+img{
+  float:right;
+}
+
+.line{
+  width:100%;
+  border-bottom: 1px solid #B67505;
+}
+
+h5{
+  color:grey; 
+}
+
+.header-left{
+  width: 70%;
+}
+
+.header-right{
+  width: 25%;
+  height: 187px;
+}
+
